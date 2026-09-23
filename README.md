@@ -1,7 +1,7 @@
 # Press Kit
 This folder contains images and other materials relating to Spiral Atlas Games.
 
-Spiral Atlas Games is an Australian solo dev game studio, making queer visual novels and visual novel resources, including tutorials and backgrounds. 
+Spiral Atlas Games is an Australian solo dev game studio, making visual novels and visual novel resources. 
 
 - [Homepage](https://spiralatlas.github.io/)
 - [Itchio page](https://spiralatlas.itch.io/)
