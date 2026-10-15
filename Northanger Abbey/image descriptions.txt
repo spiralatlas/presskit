@@ -1,0 +1,51 @@
+Cover Images:
+
+capsule_main, vertical_capsule: Title: Northanger Abbey. An androgynous figure in regency dress holds a book and looks into the distance, in front of a regency mansion surrounded by white roses. 
+
+banner: An androgynous figure in regency dress holds a book and looks into the distance, in front of white roses.
+
+background: A regency mansion surrounded by white roses.
+
+header: Title: Northanger Abbey. A regency mansion surrounded by white roses.
+
+northanger_abbey_backgrounds_day: A grid of 32 painted style backgrounds of nineteenth century locations, both internal and external. 
+
+Game Screenshots:
+
+ss_access: A bar at the top says: Music: Energetic orchestral music, Handel - Concerto Grosso in F major. Large text in a textbox says Background: Outside your family's home. A simple two-storey house, surrounded by flowers and trees and with red Chinese lanterns over the door. The background is as described. 
+
+ss_allen: A pale dark-haired androgynous figure in regency dress stands next to a pale woman in elaborate regency dress. Text: It is now expedient to give some description of Mrs Allen, that the player may be able to judge in what manner her actions will hereafter tend to promote the general distress of the work, and how she will, probably, contribute to reduce you to all the desperate wretchedness of which a bad end is capable.
+    
+ss_hill: A smiling dark skinned man in a pink-red regency suit, sits in a wooden wheelchair beside a smiling shorter pale dark-haired young woman and a softly smiling dark skinned woman in a pink and white regency dress with Indian patterns. They stand on a grassy hill with a dead tree and a view of a city. Text: From the withered oak, to oaks in general, to forests, the enclosure of them, waste lands, crown lands and government, he shortly finds himself arrived at politics. And from politics it is an easy step to silence.
+
+ss_strangers: An androgynous figure, two men, and a woman, all in regency dress, stand in a ballroom looking upset. Text: Isabella: To see myself supplanted in your friendship by strangers cuts me to the quick. These Tilneys seem to swallow up everything else.
+
+ss_secret: A pale dark-haired androgynous figure, widow in black with her face obscured by a veil, and pale young man, stand in a ballroom, wearing regency dress. Text: She seems to be avoiding your eye. Does she have something to hide?
+
+ss_henry: A smiling dark skinned man in a pink-red regency suit, sits in a wooden wheelchair beside a smiling pale dark-haired woman and a softly smiling dark skinned woman in a pink and white regency dress with Indian patterns. They stand on a grassy hill with a dead tree and a view of a city. There are multiple choice buttons: I am sure Mr Tilney is never wrong about anything (sincerely), I am sure Mr Tilney is never wrong about anything (sarcastically), I feel I can have no intelligent opinion on the matter
+
+Trailer Screenshots:
+
+Eleanor: A softly smiling dark skinned woman in a pink and white regency dress with Indian patterns. Text: Eleanor. A melancholy artist with a secret.
+
+Henry: A smiling dark skinned man in a pink-red regency suit, holding a cane. Text: Henry. A snarky priest with an eye for muslin. 
+
+John: A smirking pale blonde man in a dark regency suit with yellow detailing. Text: John.  The most charming man in Bath just ask him.
+
+Isabella: A smiling pale blond woman in a yellow regency dress. Text: Isabella. Your new best friend like it or not. 
+
+Kit: A pale dark-haired androgynous figure in regency dress. Text: Christopher. Book lover and unlikely protagonist. 
+
+Catherine: A pale dark-haired woman in a regency dress. Text: Catherine. Book lover and unlikely protagonist. 
+
+Christopher: A pale dark-haired man in a regency suit. Text: Book lover and unlikely protagonist. 
+
+Accessibility: A bar at the top says: Music: Energetic orchestral music, Handel - Concerto Grosso in F major. Large text in a textbox says Background: Outside your family's home. A simple two-storey house, surrounded by flowers and trees and with red Chinese lanterns over the door. The background is as described. Over the top is the word Accessibility. 
+
+Romance: A pale dark-haired man and dark skinned man in regency suits blush, standing by a river. Text: Henry: I told him of my...of my intention to seek your hand, whatever he might say. He was furious. We parted in dreadful disagreement. But it is nothing to me. Not in comparison to my feelings for you. Over the top is the text Romance!
+
+Secrets: A fancy looking bedroom. Text: On tiptoe you enter...the room is before you...but it is some minutes before you can advance another step. What you behold fixes you to the spot and agitates every feature. Over the top is the text Secrets!!
+
+Novel: A neo-classical gallery in a formal garden. Over the top is the text Jane Austen's classic novel reimagined for a new era.
+
+
