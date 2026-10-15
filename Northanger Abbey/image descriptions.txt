@@ -24,6 +24,8 @@ ss_secret: A pale dark-haired androgynous figure, widow in black with her face o
 
 ss_henry: A smiling dark skinned man in a pink-red regency suit, sits in a wooden wheelchair beside a smiling pale dark-haired woman and a softly smiling dark skinned woman in a pink and white regency dress with Indian patterns. They stand on a grassy hill with a dead tree and a view of a city. There are multiple choice buttons: I am sure Mr Tilney is never wrong about anything (sincerely), I am sure Mr Tilney is never wrong about anything (sarcastically), I feel I can have no intelligent opinion on the matter
 
+ss_cross: What appears to be a young man in a regency suit. Text: You shall be known to the world as Mr Christopher Morland, and only your closest friends and family will know that you are really Miss Catherine Morland.
+
 Trailer Screenshots:
 
 Eleanor: A softly smiling dark skinned woman in a pink and white regency dress with Indian patterns. Text: Eleanor. A melancholy artist with a secret.
